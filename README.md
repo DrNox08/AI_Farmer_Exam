@@ -29,7 +29,7 @@ The second Farmer is the refined and production-ready implementation.
 Improvements include:
 
 - Cleaner and more maintainable logic  
-- Proper use of **EQS queries**  
+- Proper use of **EQS queries (Use of custom EQS asset)**  
 - Custom **Decorators** to handle logic flow more efficiently  
 - No reliance on workarounds  
 
